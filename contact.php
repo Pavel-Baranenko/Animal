@@ -34,6 +34,8 @@ if(isset($_POST['submitcontact']))
   ================================================== -->
 	<meta charset="utf-8">
 	<title>Animal</title>
+   <link type="image/x-icon" rel="shortcut icon" href="images/favicon.ico">
+
 	<meta name="description" content="Free Responsive Html5 Css3 Templates | Zerotheme.com">
 	<meta name="author" content="www.zerotheme.com">
 	
